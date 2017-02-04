@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Appliances",
+    "sub_name": ["Microwaves","Blenders","Fridges","Toaster","Television","Other Appliances"]
+  },
+  {
+    "id": "2",
+    "name": "Board Games"
+  },
+  {
+    "id": "3",
+    "name": "Books"
+  },
+  {
+    "id": "4",
+    "name": "Cameras and Accesories",
+    "sub_name": ["Cameras","Camera Accesories"]
+  },
+  {
+    "id": "5",
+    "name": "Cellphones and Accesories",
+    "sub_name": ["Cellphones","Cellphones Accesories"]
+  },
+  {
+    "id": "6",
+    "name": "Clothing",
+    "sub_name": ["Men’s clothing","Men’s accessories","Men’s shoes","Women’s clothing","Women’s accessories","Women’s shoes","Women’s bags and handbags","Cultural and ethnic clothing"]
+  }
+]

@@ -1,0 +1,1 @@
+var Ching = angular.module('Ching',['ngResource'])
